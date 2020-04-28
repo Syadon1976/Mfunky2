@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name Cotg Mfunky2
 // @namespace https://github.com/Syadon1976/Mfunky2
-// @version 1.0.3
+// @version 1.0.1
 // @description Cotg Mfunky2
-// @author Mohnki
+// @author Mohnki/Syadon/Dhruv/Cfunky
 // @match https://infected.crownofthegods.com/
 // @match https://w20.crownofthegods.com
 // @match https://w18.crownofthegods.com
