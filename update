@@ -10,8 +10,8 @@
 // @match https://w19.crownofthegods.com
 // @include https://w/*.crownofthegods.com/World*
 // @grant none
-// @updateURL https://github.com/Syadon1976/Mfunky2/blob/master/update
-// @downloadURL https://github.com/Syadon1976/Mfunky2/blob/master/update
+// @updateURL https://github.com/Syadon1976/Mfunky2/raw/master/mfunky.user.js
+// @downloadURL https://github.com/Syadon1976/Mfunky2/raw/master/mfunky.user.js
 // ==/UserScript==
 
 (function() {
