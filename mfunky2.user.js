@@ -2,7 +2,7 @@
 // @name Cotg Mfunky2
 // @namespace https://github.com/Syadon1976/Mfunky2
 // @version 1.0.3
-// @description Cotg Mfunky
+// @description Cotg Mfunky2
 // @author Mohnki
 // @match https://infected.crownofthegods.com/
 // @match https://w20.crownofthegods.com
