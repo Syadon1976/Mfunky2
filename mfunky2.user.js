@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Cotg Mfunky
+// @name Cotg Mfunky2
 // @namespace https://github.com/Syadon1976/Mfunky2
 // @version 1.0.3
 // @description Cotg Mfunky
